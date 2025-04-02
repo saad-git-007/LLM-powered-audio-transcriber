@@ -1,4 +1,4 @@
-# Simple Audio Transcriber (Streamlit + OpenAI)
+# LLM Audio Transcriber (Streamlit + OpenAI)
 
 A web application built with Streamlit to transcribe English audio files using OpenAI's `gpt-4o-mini-transcribe` model via its API. It handles various audio formats, automatically chunks large files for processing, and displays the resulting transcription.
 
